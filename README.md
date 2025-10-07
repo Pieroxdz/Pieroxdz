@@ -8,7 +8,7 @@
 </a>
 
 
-- 🎒 Soy un actual estudiante del 4to ciclo la carrera de Desarrollo de Software en ISIL (Instituto San Ignacio de Loyola)
+- 🎒 Soy un actual estudiante del 6to ciclo la carrera de Desarrollo de Software en ISIL (Instituto San Ignacio de Loyola)
 
 - En el futuro me gustaría desempeñarme como un FullStack developer 😁
 
